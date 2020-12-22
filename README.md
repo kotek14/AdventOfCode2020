@@ -18,5 +18,5 @@ The second part actually makes us check some data, so I wrote a `checkValueValid
 This one is easy. I replace Fs and Ls with zeros, and Bs and Rs with ones.
 The second part is similar, I just had to sort the list and walk through it looking for a missing Seat ID.
 
-### --- Day 6: Custom Customs ---
+#### --- Day 6: Custom Customs ---
 Basically it's all about finding unique and common elements. The first one is about removing duplicate characters by converting strings to sets. Part two is about looking for common elements in lists.
